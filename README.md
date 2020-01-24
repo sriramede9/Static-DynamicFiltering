@@ -29,4 +29,4 @@
 
 ## Images
 
-[]!(Images/Dynamic-Output.PNG)
+![](Images/Dynamic-Output.PNG)
